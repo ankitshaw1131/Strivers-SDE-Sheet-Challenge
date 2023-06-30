@@ -1,3 +1,5 @@
 Middle of the linked list
 Reverse a Linked List
 check if BT is a BST or not
+BFS
+DFS
